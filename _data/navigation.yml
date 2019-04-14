@@ -4,5 +4,4 @@ main:
   #  url: /publications/
 
   - title: "CV"
-    #url: /files/CV.pdf
-    url: https://github.com/sujunyan/CV/raw/master/main.pdf
+    url: /files/CV/main.pdf
