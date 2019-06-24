@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Junyan Su. I am an undergraduate at ShanghaiTech University. I am working on bachelor thesis with Prof. Boris Houska. I am graduating from ShanghaiTech and going to wustl and work with Prof. Shen Zeng. My research interest is optimization and control system.
+Welcome! My name is Junyan Su. I am an undergraduate at ShanghaiTech University. I am working on bachelor thesis with Prof. Boris Houska. I am graduating from ShanghaiTech and going to wustl and work with Prof. Shen Zeng in Systems Theory Lab. My research interests are optimization and control system.
