@@ -12,7 +12,18 @@ I received my bachelor degree in Computer Science and Technology from ShanghaiTe
 
 # Publication
 - **J. Su**, Y. Zha, K. Wang, M.E. Villanueva, R. Paulen, B. Houska.
-Interval Superposition Arithmetic for Guaranteed Parameter Estimation
-Dynamics and Control of Process Systems, including Biosystems,2019
+Interval Superposition Arithmetic for Guaranteed Parameter Estimation,
+Dynamics and Control of Process Systems, including Biosystems,2019.
 
-- 
+- **J. Su**, Y. Jiang, A. Bitlislioglu, C.N. Jones, B. Houska. 
+Distributed multi-building coordination for demand response,
+ In Proceedings of the 21st IFAC World Congress 
+ Berlin, Germany, July, 2020. (accepted)
+
+- Y. Jiang, **J. Su**, Y. Shi, B. Houska
+Distributed optimization for massive connectivity,
+IEEE Wireless Communication Letters, 2020. (accepted)
+
+- L. Gao, **J. Su**, J. Cui, X. Zeng, X. Peng, and L. Kneip
+ Efficient Globally-Optimal Correspondence-Less 
+ Visual Odometry for Planar Ground Vehicles, International Conference on Robotics and Automation (ICRA), IEEE, 2020. (accepted)
