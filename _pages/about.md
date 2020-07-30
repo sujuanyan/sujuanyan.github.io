@@ -13,7 +13,7 @@ I received my bachelor degree in Computer Science and Technology from ShanghaiTe
 # Publication
 - **J. Su**, Y. Zha, K. Wang, M.E. Villanueva, R. Paulen, B. Houska.
 Interval Superposition Arithmetic for Guaranteed Parameter Estimation,
-Dynamics and Control of Process Systems, including Biosystems,2019.
+In Proceedings of the 12th IFAC Symposium on Dynamics and Control of Process Systems, Florianopolis, Brazil, April, 2019.
 
 - **J. Su**, Y. Jiang, A. Bitlislioglu, C.N. Jones, B. Houska. 
 Distributed multi-building coordination for demand response,
