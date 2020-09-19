@@ -18,12 +18,12 @@ In Proceedings of the 12th IFAC Symposium on Dynamics and Control of Process Sys
 - **J. Su**, Y. Jiang, A. Bitlislioglu, C.N. Jones, B. Houska. 
 Distributed multi-building coordination for demand response,
  In Proceedings of the 21st IFAC World Congress 
- Berlin, Germany, July, 2020. (accepted)
+ Berlin, Germany, July, 2020. 
 
-- Y. Jiang, **J. Su**, Y. Shi, B. Houska
+- Y. Jiang, **J. Su**, Y. Shi, B. Houska.
 Distributed optimization for massive connectivity,
-IEEE Wireless Communication Letters, 2020. (accepted)
+IEEE Wireless Communication Letters, 2020. 
 
-- L. Gao, **J. Su**, J. Cui, X. Zeng, X. Peng, and L. Kneip
+- L. Gao, **J. Su**, J. Cui, X. Zeng, X. Peng, and L. Kneip.
  Efficient Globally-Optimal Correspondence-Less 
- Visual Odometry for Planar Ground Vehicles, International Conference on Robotics and Automation (ICRA), IEEE, 2020. (accepted)
+ Visual Odometry for Planar Ground Vehicles, International Conference on Robotics and Automation (ICRA), IEEE, 2020. 
