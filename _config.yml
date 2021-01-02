@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Junyan Su"
+name                     : &name "Junyan Su (苏隽岩)"
 description              : &description "B.S.E. Candidate in Computer Science at ShanghaiTech University"
 url                      : https://sujunyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junyan Su"
+  name             : "Junyan Su (苏隽岩)"
   avatar           : "profile.jpg"
   bio              :
   location         :
