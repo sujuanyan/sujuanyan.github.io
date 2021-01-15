@@ -1,6 +1,6 @@
 ---
 title: 'Blog Post number 1'
-date: 2021-01-14
+date: 2021-01-12
 permalink: /blog/test-blog-post-1/
 tags:
   - test
