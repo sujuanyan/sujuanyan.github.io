@@ -5,3 +5,5 @@ main:
 
   - title: "CV"
     url: /files/CV/main.pdf
+  - title: "Blog"
+    url: /blog/ 
