@@ -1,9 +1,9 @@
 ---
 title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2021-01-15
+permalink: /blog/test-blog-post-1/
 tags:
-  - cool posts
+  - test
   - category1
   - category2
 ---
