@@ -21,13 +21,13 @@
 
 \usepackage[colorlinks=true]{hyperref}
 \hypersetup{
-     colorlinks = true,
-     linkcolor = blue,
-     anchorcolor = blue,
-     citecolor = blue,
-     filecolor = blue,
-     urlcolor = blue
-     }
+  colorlinks = true,
+  linkcolor = blue,
+  anchorcolor = blue,
+  citecolor = blue,
+  filecolor = blue,
+  urlcolor = blue
+}
 %% new commands ----------------------------------------------------
 
 %%---------------------------------------------------------------------------------------------
@@ -43,20 +43,6 @@
         \\ {Carnegie Mellon Robotics Institute Summer Scholars Working Papers Journal Vol.6, pp. 129-132, 2018} 
          \href{https://riss.ri.cmu.edu/wp-content/uploads/2018/11/RISS_Journal_Nov26-r.pdf}{[pdf]}
         }
-\newcommand{\GPEpaper}{
-    
-        }
-\newcommand{\groupLasso}{
-        
-}
-
-\newcommand{\IFAC}{
-        
-}
-
-\newcommand{\ICRA}{
-        
-}
 
 
 %%-----------------------------------------------------------------
@@ -104,13 +90,12 @@
             \url{https://sujunyan.github.io/} 
         }     
     }
-} %% basic info and name done
+} %% basic info and name done -------------------------
 %% resume begin ------------------------------------------------------
+\begin{resume}
 
-    \begin{resume}
-   %% EDUCATION begin ----------------------------------------------
-    \header{EDUCATION}
-    {
+%% EDUCATION begin ----------------------------------------------
+\header{EDUCATION}{
 \section{\centerline{\textcolor[rgb]{0, 0, 0}{Nov.2020-present}}}
             \textbf {City University of Hong Kong}
             \hspace{65mm}
@@ -145,48 +130,46 @@
 %            \newline
 %            Ph.D. student in Systems Science and Mathematics
         
-} 
+} % EDUCATION done ---------------------
 
-% EDUCATION done
-    %% research interest ----------------------------------------
-    %\header{RESEARCH INTERESTS}
-    %{
-    %    \\Intelligent transportation
-    %    \\Optimization
-    %}
+%% research interest ----------------------------------------
+%\header{RESEARCH INTERESTS}
+%{
+%    \\Intelligent transportation
+%    \\Optimization
+%}
     
-    %% Publication begin -----------------------------------------
-    \header{PUBLICATIONS}
-    {
-      % IFAC paper --------------
-      \newline
-      \textbf{J. Su}, Y. Jiang, A. Bitlislioglu, C.N. Jones, B. Houska. 
-      \\Distributed Multi-building Coordination for Demand Response 
-      \\ In Proceedings of the 21st IFAC World Congress 
-      \\ Berlin, Germany, July, 2020.
-      %\href{http://faculty.sist.shanghaitech.edu.cn/faculty/boris/paper/IFAC2020A.pdf}{[pdf]}
-      % groupLasso ------------------
-      \newline \newline
-      Y. Jiang, \textbf{J. Su}, Y. Shi, B. Houska
-      \\Distributed Optimization for Massive Connectivity
-      \\ IEEE Wireless Communication Letters, 2020. 
-      %\href{http://faculty.sist.shanghaitech.edu.cn/faculty/boris/paper/WCL2020.pdf}{[pdf]}
-      % ICRA -------------------------
-      \newline \newline
-      L. Gao, \textbf{J. Su}, J. Cui, X. Zeng, X. Peng, and L. Kneip
-      \\ Efficient Globally-Optimal Correspondence-Less 
-      \\ Visual Odometry for Planar Ground Vehicles  
-      \\ International Conference on Robotics and Automation (ICRA), IEEE, 2020. 
-      %\href{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196595}{[pdf]}
-      % GPE paper -------------------
-      \newline \newline
-      \textbf{J. Su}, Y. Zha, K. Wang, M.E. Villanueva, R. Paulen, B. Houska. 
-      \\Interval Superposition Arithmetic for Guaranteed Parameter Estimation,
-      \\In Proceedings of the 12th IFAC Symposium on Dynamics and Control 
-      \\of Process Systems, Florianopolis, Brazil, April, 2019.
-      %\href{http://faculty.sist.shanghaitech.edu.cn/faculty/boris/paper/DYCOPS2019B.pdf}{[pdf]}
-    }
-    %% Publication end 
+%% Publication begin -----------------------------------------
+\header{PUBLICATIONS}
+{
+  % IFAC paper --------------
+  \newline
+  \textbf{J. Su}, Y. Jiang, A. Bitlislioglu, C.N. Jones, B. Houska. 
+  \\Distributed Multi-building Coordination for Demand Response 
+  \\ In Proceedings of the 21st IFAC World Congress 
+  \\ Berlin, Germany, July, 2020.
+  %\href{http://faculty.sist.shanghaitech.edu.cn/faculty/boris/paper/IFAC2020A.pdf}{[pdf]}
+  % groupLasso ------------------
+  \newline \newline
+  Y. Jiang, \textbf{J. Su}, Y. Shi, B. Houska
+  \\Distributed Optimization for Massive Connectivity
+  \\ IEEE Wireless Communication Letters, 2020. 
+  %\href{http://faculty.sist.shanghaitech.edu.cn/faculty/boris/paper/WCL2020.pdf}{[pdf]}
+  % ICRA -------------------------
+  \newline \newline
+  L. Gao, \textbf{J. Su}, J. Cui, X. Zeng, X. Peng, and L. Kneip
+  \\ Efficient Globally-Optimal Correspondence-Less 
+  \\ Visual Odometry for Planar Ground Vehicles  
+  \\ International Conference on Robotics and Automation (ICRA), IEEE, 2020. 
+  %\href{https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196595}{[pdf]}
+  % GPE paper -------------------
+  \newline \newline
+  \textbf{J. Su}, Y. Zha, K. Wang, M.E. Villanueva, R. Paulen, B. Houska. 
+  \\Interval Superposition Arithmetic for Guaranteed Parameter Estimation,
+  \\In Proceedings of the 12th IFAC Symposium on Dynamics and Control 
+  \\of Process Systems, Florianopolis, Brazil, April, 2019.
+  %\href{http://faculty.sist.shanghaitech.edu.cn/faculty/boris/paper/DYCOPS2019B.pdf}{[pdf]}
+}%% Publication end 
     
 %% awards & honors ----------------------------------------
 \header{HONORS \& AWARDS}
@@ -194,29 +177,26 @@
 \section{\centerline{2016,2017}}
             Scholarship for Academic Excellence, ShanghaiTech University
             \vspace{-3mm}
-            
-\section{\centerline{Oct.13 2017}}
-    Most Innovative Robot in Rescue Robot Competition, \\
-    IEEE International Symposium on Safety, Security and Rescue Robotics
-            \vspace{-3mm}
+%\section{\centerline{Oct.13 2017}}
+%    Most Innovative Robot in Rescue Robot Competition, \\
+%    IEEE International Symposium on Safety, Security and Rescue Robotics
+%            \vspace{-3mm}
 \section{\centerline{2019}}
             Outstanding Graduate of Shanghai University
             \vspace{-3mm}
-}   % awards & honors done
- 
+}   % awards & honors done --------------
 
     
 %% research experience begin --------------------------------------------
-    \header{EXPERIENCE}
+\header{EXPERIENCE}
 {
 % RISS
 {
 \section{  \centerline{\textcolor[rgb]{0, 0, 0}{Jun.2018-Aug.2018}}}
-           {\textbf {Carnegie Mellon University} }
-           \hspace{65mm}
+           {\textbf{Robotics Institute Summer Scholars Program} }
+           \hspace{39mm}
            \textbf{Pittsburgh, PA, USA}
-            Robotics Institute Summer Scholars Program \\
-            Advisors: Prof. Howie Choset \& Lu Li
+            \\ Advisors: Prof. Howie Choset \& Lu Li
            \newline
            To design one logic-circuit-level layout with Verilog to fetch data from multiple sensors and reduce CPU intervention time. The report can be found in pp.129-132 of \href{https://riss.ri.cmu.edu/wp-content/uploads/2018/11/RISS_Journal_Nov26-r.pdf}{[pdf]}
 }           
@@ -250,35 +230,36 @@
 \header{COURSE PROJECTS}
 {
   \\Lego Pick \& Place Assembler \href{https://legopicknplace.wixsite.com/me102b}{[website]}.
-  \\\\Turtlebot with Robotic Arm Delivery \href{https://sites.google.com/view/auto-search-pickup-vehicle}{[website]}.
-  \\\\A Don't-Touch-Me Robot \href{https://sujunyan.github.io/FABLAB_DOCUMENTATION/final_project/final_project.html}{[website]}
-  \\\\Completed and passed all the points in the \href{http://www.scs.stanford.edu/18wi-cs140/pintos/pintos.html#SEC_Contents}{[Pintos project]}
-  \\\\Optimal 800MHz 6-Bit “Absolute-value Detector”
-  \\In this project, I and my teammate implemented a CMOS level circuit “Absolute-value Detector” with Cadence Virtuoso. We achieved the minimum delay compared with other teams in the course.
+  \\Turtlebot with Robotic Arm Delivery \href{https://sites.google.com/view/auto-search-pickup-vehicle}{[website]}.
+  \\A Don't-Touch-Me Robot \href{https://sujunyan.github.io/FABLAB_DOCUMENTATION/final_project/final_project.html}{[website]}
+  \\Completed and passed all the points in the \href{http://www.scs.stanford.edu/18wi-cs140/pintos/pintos.html#SEC_Contents}{[Pintos project]}
+  %\\Optimal 800MHz 6-Bit “Absolute-value Detector”
+  %\\In this project, I and my teammate implemented a CMOS level circuit “Absolute-value Detector” with Cadence Virtuoso. We achieved the minimum delay compared with other teams in the course.
 } %% course projects end
 
 
     %% technical skills ---------------------------------------
-\header{TECHNICAL SKILLS}
-{
-\section{}
-\begin{spacing}{1.0}
-            \textbf{Programming Languages:} C/C++, Python\\
-            \textbf{Scientific Tools:} MATLAB, Mathematica, Julia, ROS \\
-            \textbf{Hardware Design:}pSoC, STM32xx,Verilog,Cadence Virtuoso  \\
-            \textbf{Office Applications:} \LaTeX 
-\end{spacing}
-                                    
-} %% technical skills done
-    %% Teaching ---------------------------------      
-    \header{TEACHING}
-{
-    \section{\centerline{Feb.2017-Jun.2017}}
-    Teaching Assistant of \emph{Introduction to Information Science and Technology} 
-     \vspace{-3mm}  
-     \section{\centerline{Sept.2017-Jan.2018}}
-     Teaching Assistant of \emph{Electric Circuits} 
-} % teaching done
-  \end{resume}
+%\header{TECHNICAL SKILLS}
+%{
+%\section{}
+%\begin{spacing}{1.0}
+%            \textbf{Programming Languages:} C/C++, Python\\
+%            \textbf{Scientific Tools:} MATLAB, Mathematica, Julia, ROS \\
+%            \textbf{Hardware Design:}pSoC, STM32xx,Verilog,Cadence Virtuoso  \\
+%            \textbf{Office Applications:} \LaTeX 
+%\end{spacing}
+%} %% technical skills done
 
+%% Teaching ---------------------------------      
+\newpage
+\header{TEACHING}
+{
+  \section{\centerline{Feb.2017-Jun.2017}}
+  Teaching Assistant of \emph{Introduction to Information Science and Technology} 
+  \vspace{-3mm}  
+  \section{\centerline{Sept.2017-Jan.2018}}
+  Teaching Assistant of \emph{Electric Circuits} 
+} % teaching done
+
+\end{resume}
 \end{document}        
